@@ -1,0 +1,28 @@
+
+
+<html>
+<head>
+<title> YourGuide </title>
+<style type = "text/css" >
+body{
+background-image:url("file:///C:/Users/Dell/Documents/COMP/mit.jpeg");
+background-size: cover  ;
+background-attachment: fixed ;
+
+}
+<body>
+
+h1{color:black;font-family:Calibri;font-size:xxxx-large}
+</style>
+<center><h1>YourGuide</h1></center
+</body>
+<p align="center">   For more information about your carrer options please check this link to 
+<a href="file:///C:/Users/Dell/Desktop/Ansh%20Comp%20Project/Streams/Streams(2.0).html" target ="_blank" >
+<u>NASA 
+
+</a>
+</u>
+</p>
+</style>
+</head>
+</html>

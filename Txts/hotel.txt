@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>Hotel mangement and Event mangement</title>
+</head> 
+<style>
+body{background-image:url("file:///C:/Users/Dell/Documents/COMP/hotel.jpeg");background-size: cover  ;
+background-attachment: fixed ;}
+</html>
+<body>
+h1{color:black;font-family:Calibri;font-size:xxxx-large}
+</style>
+<center><h1>Who are hotel and event mangement people ?</h1></center>
+</body>
+<p style='font-family:comic sans;font-size:xx-large;color:blue'>
+A hotel manager, hotelier, or lodging manager is a person who manages the operation of a hotel, motel, resort, or other lodging-related establishment.[1] Management of a hotel operation includes, but is not limited to management of hotel staff, business management, upkeep and sanitary standards of hotel facilities, guest satisfaction.the title "hotel manager" or "hotelier" often refers to the hotel's General Manager who serves as a hotel's head executive. A event manger manges the creation and development of small and/or large-scale personal or corporate events such as festivals, conferences, ceremonies, weddings, formal parties, concerts, or conventions. To become a hotel manger you must have BHM (degree) and to become an event manger you must have BJMC/BMC.
+</p>

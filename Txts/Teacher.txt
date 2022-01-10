@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>Teachers</title>
+</head> 
+<style>
+body{background-image:url("file:///C:/Users/Dell/Documents/COMP/teach.jpeg");background-size: cover  ;
+background-attachment: fixed ;}
+</html>
+<body>
+h1{color:black;font-family:Calibri;font-size:xxxx-large}
+</style>
+<center><h1>Who are teachers ?</h1></center>
+</body>
+<p style='font-family:comic sans;font-size:xx-large;color:blue'>
+A teacher, also called a schoolteacher or formally an educator, is a person who helps students to acquire knowledge, competence or virtue.B Ed degree (Bachelor's of Education) with a minimum of 55% marks is required to become a teacher.Apart from a B. Ed degree some schools also ask for master's degree in the respective field to teach higher classes.
+</p>

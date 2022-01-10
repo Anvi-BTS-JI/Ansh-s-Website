@@ -1,0 +1,36 @@
+	
+<html>
+<head>
+<title> Choose your stream </title>
+<style type = "text/css" >
+body{
+background-image:url("file:///C:/Users/Dell/Documents/COMP/stream1.jpeg");
+background-attachment: fixed; 
+background-size: 100% 95%;
+
+ </head>
+<body>
+h1{color:black;font-family:Calibri;font-size:xxxx-large}
+</style>
+<center><h1>Choose your stream</h1></center
+</body>
+<p align="center">    
+<a href="file:///C:/Users/Dell/Desktop/Sc1.html" target ="_blank" >
+<u>Science
+
+<p align="center" 
+<a href="https://eyes.nasa.gov/dsn/dsn.html" target ="_blank" >
+<u>Commerce
+
+<p align="center" 
+<a href="https://eyes.nasa.gov/dsn/dsn.html" target ="_blank" >
+<u>Commerce
+
+
+
+
+</body>
+
+</style>
+
+</html>

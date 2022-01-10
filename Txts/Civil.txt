@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>Civil Services</title>
+</head> 
+<style>
+body{background-image:url("file:///C:/Users/Dell/Documents/COMP/CompEng.jpeg");background-size: cover  ;
+background-attachment: fixed ;}
+</html>
+<body>
+h1{color:black;font-family:Calibri;font-size:xxxx-large}
+</style>
+<center><h1>Who are civil servants ?</h1></center>
+</body>
+<p style='font-family:comic sans;font-size:xx-large;color:blue'>
+The civil service is a collective term for a sector of government composed mainly of career civil servants hired on professional merit rather than appointed or elected, whose institutional tenure typically survives transitions of political leadership. A civil servant, also known as public servant, is a person employed in the public sector by a government department or agency for public sector . Civil servants work for central and state governments, and answer to the government.The candidate should have a Bachelor's degree in any discipline from any recognized University. How ever the arts is not the only field to become a civil interest. In India you must pass UPSC exams to become a civil servant but in different countries you must give different exams organized by government
+</p>

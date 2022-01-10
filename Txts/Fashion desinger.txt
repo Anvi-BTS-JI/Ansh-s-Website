@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>Computer Engineer</title>
+</head> 
+<style>
+body{background-image:url("file:///C:/Users/Dell/Documents/COMP/CompEng.jpeg");background-size: cover  ;
+background-attachment: fixed ;}
+</html>
+<body>
+h1{color:black;font-family:Calibri;font-size:xxxx-large}
+</style>
+<center><h1>What are computer engineers ?</h1></center>
+</body>
+<p style='font-family:comic sans;font-size:xx-large;color:blue'>
+Computer Engineers are those engineers who recive their degrees in computer fields and serve the IT industries. The demand of theese engineers has recently increased due to modification in technology and advancement of AI. Computer engnineering is a vast field with man proffesions like ethical hacker, software developers, software engineers etc. Theese engineer also work for the biggest Tech Industries like Google, Apple, Fackebook, Amazon, Microsoft etc. Their main work includes coding in idfferent languages such as Python, HTML, Java, JavaScript etc. with theese codes they tried to run and command particular app, webiste, game and can also be used to fix bugs.
+</p>
